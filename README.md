@@ -46,7 +46,8 @@
 <!-- ===== 5. 动态贪吃蛇 ===== -->
 <!-- 需要 GitHub Actions 自动生成（下面我会告诉你怎么配） -->
 <p align="center">
-  <img src="https://github.com/saguielowe/saguielowe/blob/output/github-contribution-grid-snake.svg"/>
+  <!-- 用 raw.githubusercontent.com 的原始链接可以更稳妥地嵌入 svg -->
+  ![Contribution Snake](https://raw.githubusercontent.com/saguielowe/saguielowe/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
